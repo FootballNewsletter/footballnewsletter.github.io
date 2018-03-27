@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Witaj na stonie projektu FootballNewsletter!
 
-avbar-links:
+navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
