@@ -1,3 +1,7 @@
 # footballnewsletter.github.io
-<h1>adasd</h1>
-<h2>asdasd</h2>
+
+<h2>Autorzy</h2>
+
+<h2>O projekcie</h2>
+
+
